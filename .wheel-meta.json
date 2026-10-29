@@ -1,0 +1,22 @@
+{
+  "wheel_id": 506,
+  "structure": "umbrella",
+  "slug": "conveyanceraustralia-104",
+  "project": "conveyancing-services-australia-documents-needed-3925a2c58ed8a0",
+  "parent_t1_ref": "conveyanceraustralia-151",
+  "node_role": "feeder",
+  "money_target": "conveyanceraustralia.com.au",
+  "primary_kw": "conveyancing services australia documents needed",
+  "intended_url": "http://conveyancing-services-australia-documents-needed-3925a2c58ed8a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0bf2b32ffe964902",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-australia-6861923f062175750ffb88626274/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
